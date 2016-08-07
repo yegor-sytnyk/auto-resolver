@@ -1,0 +1,28 @@
+{
+  "name": "auto-resolver",
+  "version": "0.0.1",
+  "description": "Simple node style Dependency Injection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yegor-sytnyk/auto-resolver.git"
+  },
+  "keywords": [
+    "DI",
+    "node",
+    "autoresolver"
+  ],
+  "author": "Yegor Sytnyk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yegor-sytnyk/auto-resolver/issues"
+  },
+  "homepage": "https://github.com/yegor-sytnyk/auto-resolver#readme",
+  "dependencies": {
+    "callsite": "^1.0.0",
+    "decache": "^4.1.0"
+  }
+}

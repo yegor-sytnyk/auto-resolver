@@ -1,0 +1,7 @@
+{
+  "index" : {
+    "worker": "./worker",
+    "textHelper": "./helpers/textHelper",
+    "numberHelper": "./helpers/numberHelper"
+  }
+}
