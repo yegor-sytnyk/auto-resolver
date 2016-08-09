@@ -14,7 +14,7 @@
 
 var resolver = require('auto-resolver');
 
-resolver.registerResolve();
+resolver.registerResolver();
 
 resolver.register('dateHelper', '.././helpers/dateHelper');
 resolver.register('stringHelper', '.././helpers/stringHelper');
